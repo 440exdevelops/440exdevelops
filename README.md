@@ -15,5 +15,13 @@ I enjoy turning ideas into practical, user-friendly projects while continuously 
 - Developer Intern @ SouthernEnforcement's Mano County (145,000 Members at the time) (2022 Or so)
 - Alot more that I cannot remember off the top of my head mainly serving as the Lead Developer/Overseer of the Development Team and I also typically managed the creation of discord bots and other advanced systems of such nature.
 
-## ⁉️ How to find me
+## 📦 Tools & Packages
+- [Node.js](https://nodejs.org/en)
+- [Express.js](https://expressjs.com)
+- [Discord.js](https://discord.js.org)
+- [Mongoose](https://www.mongodb.com/cloud/atlas/register)
+- [Noblox.js](https://noblox.js.org) (DEPRICATED AS OF MAR. 29 2026)
+- [Dotenv](https://www.dotenv.org)
+
+## 📲 Contact/Commission me
 My discord is ``440ex_develops`` and my roblox is the same.
