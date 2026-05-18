@@ -2,4 +2,10 @@
 💻 Backend Developer | 🎯 Problem Solver
 
 ## 🏆 About Me
-I'm a programmer with 6 years of experience under my belt. I am fluent in LUA & JavaScript (Node.js). I work both inside, and outside of roblox.
+I'm 440ex_develops! I have a passion for building clean, efficent and functional systems/applications.
+
+I am fluent in the following languages:
+- JavaScript (Node.js)
+- LUA
+
+I enjoy turning ideas into practical, user-friendly projects while continuously improving my development skills.
