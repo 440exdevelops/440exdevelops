@@ -20,8 +20,8 @@ I enjoy turning ideas into practical, user-friendly projects while continuously 
 - [Express.js](https://expressjs.com)
 - [Discord.js](https://discord.js.org)
 - [Mongoose](https://www.mongodb.com/cloud/atlas/register)
-- [Noblox.js](https://noblox.js.org) (DEPRICATED AS OF MAR. 29 2026)
 - [Dotenv](https://www.dotenv.org)
+- [Noblox.js](https://noblox.js.org) (DEPRICATED AS OF MAR. 29 2026)
 
 ## 📲 Contact/Commission me
 My discord is ``440ex_develops`` and my roblox is the same.
