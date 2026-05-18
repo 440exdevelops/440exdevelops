@@ -1,4 +1,4 @@
-## Hey, im 440ex_develops!
+## 👋 Hey, im 440ex_develops!
 💻 Backend Developer | 🎯 Problem Solver
 
 ## 🏆 About Me
