@@ -24,4 +24,5 @@ I enjoy turning ideas into practical, user-friendly projects while continuously 
 - [Noblox.js](https://noblox.js.org) (DEPRICATED AS OF MAR. 29 2026)
 
 ## 📲 Contact/Commission me
-My discord is ``440ex_develops`` and my roblox is the same.
+- Discord Username: 440ex_develops
+- Portfolio Discord: Coming soon.
