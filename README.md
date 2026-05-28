@@ -1,5 +1,5 @@
 ## 👋 Hey, im 440ex_develops!
-💻 Backend Developer | 🎯 Problem Solver
+💻 Backend Developer | 🎯 Problem Solver | ⚠️ Exploit Tester
 
 ## 🏆 About Me
 I'm 440ex_develops! I have a passion for building clean, efficent and functional systems/applications.
